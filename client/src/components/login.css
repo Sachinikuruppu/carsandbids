@@ -1,0 +1,159 @@
+-------*/
+  a {
+      font-family: Poppins-Regular;
+      font-size: 14px;
+      line-height: 1.7;
+      color: #666666;
+      margin: 0px;
+      transition: all 0.4s;
+      -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+  }
+  
+  
+  /*---------------------------------------------*/
+  h1,h2,h3,h4,h5,h6 {
+      margin: 0px;
+  }
+  
+  p {
+      font-family: Poppins-Regular;
+      font-size: 14px;
+      line-height: 1.7;
+      color: #666666;
+      margin: 0px;
+  }
+  
+  ul, li {
+      margin: 0px;
+      list-style-type: none;
+  }
+  
+  
+  /*---------------------------------------------*/
+  
+  label {
+    display: block;
+    margin: 0;
+  }
+  
+  /*---------------------------------------------*/
+  button {
+      outline: none !important;
+      border: none;
+      background: transparent;
+  }
+  
+  button:hover {
+      cursor: pointer;
+  }
+  
+  iframe {
+      border: none !important;
+  }
+  
+  
+  /*//////////////////////////////////////////////////////////////////
+  [ Utility ]*/
+  .txt1 {
+    font-family: Montserrat-SemiBold;
+    font-size: 16px;
+    color: #555555;
+    line-height: 1.5;
+  }
+  
+  .txt2 {
+    font-family: Poppins-Regular;
+    font-size: 14px;
+    color: #999999;
+    line-height: 1.5;
+  }
+  
+  .bo1 {border-bottom: 1px solid #999999;}
+  
+  /*//////////////////////////////////////////////////////////////////
+  [ login ]*/
+  
+  .limiter {
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .container-login100 {
+    width: 100%;  
+    min-height: 100vh;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background-image: url("../../public/images/carlogin.jpg");    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;;
+  }
+  
+  
+  .wrap-login100 {
+    width:350px;
+    background:rgba(225, 225, 225, 0.4);
+    border-radius: 10px;
+    position: relative;
+
+ 
+  }
+
+  .blurbackground{
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    background-color: #fff;
+    opacity: 50%;
+  }
+  
+  
+  /*==================================================================
+  [ Form ]*/
+  
+  .login100-form {
+    width: 100%;
+  }
+  
+  .login100-form-title {
+    width: 100%;
+    display: block;
+    font-family: Montserrat-Medium;
+    font-size: 39px;
+    color: #555555;
+    line-height: 1.2;
+    text-align: center;
+  }
+  
+  /*------------------------------------------------------------------
+  [ Button sign in with ]*/
+ 
+  
+  
+  
+  
+  /*------------------------------------------------------------------
+  [ Input ]*/
+  
+  .wrap-input100 {
+    width: 100%;
+    position: relative;
+    background-color: #f7f7f7;
+    border: 1px solid #e6e6e6;
+    border-radius: 10px;
+  }
+  
+  
+  /*---------------------------------------------*/
+ 
+  
+  
+  

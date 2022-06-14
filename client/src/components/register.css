@@ -1,0 +1,26 @@
+.register {
+    background: url("../../public/images/regbg.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+   
+    padding: 150px 150px 250px 375px; 
+   
+}
+
+.container-register {
+    width: 680px;
+    min-height: 500px;
+    background:rgba(247, 245, 245, 0.7);
+    /* backdrop-filter: blur(8px); */
+    border-radius: 10px;
+    position: relative;
+    align-items: center;
+    text-align: left;
+    padding-left: 100px;
+    
+}
